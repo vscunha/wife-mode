@@ -1,0 +1,14 @@
+{
+  "name": "wife-mode",
+  "description": "A skeptical planning and scope-cutting plugin that questions necessity before execution and pushes toward the smallest sane solution.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vscunha"
+  },
+  "homepage": "https://github.com/vscunha/wife-mode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vscunha/wife-mode.git"
+  },
+  "license": "MIT"
+}
